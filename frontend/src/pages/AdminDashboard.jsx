@@ -221,8 +221,9 @@ const AdminDashboard = () => {
             </aside>
 
             {/* Main Content Area */}
-            <div className="flex-1 p-8 lg:p-12 bg-white/80 backdrop-blur-sm">
-                <div className="max-w-7xl mx-auto">
+            {/* Main Content Area */}
+            <div className="flex-1 p-8 lg:p-12 bg-white/80 backdrop-blur-sm overflow-y-auto max-h-[calc(100vh-80px)]">
+            <div className="max-w-7xl mx-auto">
                     <div className="mb-8">
                         <h1 className="text-4xl lg:text-5xl font-bold text-transparent bg-gradient-to-r from-slate-800 to-slate-600 bg-clip-text mb-2">
                             {getPageTitle()}
