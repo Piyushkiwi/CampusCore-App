@@ -166,6 +166,13 @@ We welcome contributions to CampusCore! Please follow these guidelines:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-CampusCore – Empowering education through seamless progress tracking and communication 🌟  
-For support or queries, please create an issue in the GitHub repository.  
-Developed with ❤️ by Piyush Kumar and Roushan Kumar
+---
+
+## 📣 About
+**CampusCore** – Empowering education through seamless progress tracking and communication 🌟  
+For support or queries, please [create an issue](https://github.com/Piyushkiwi/CampusCore/issues) in the GitHub repository.
+
+---
+
+> Developed with ❤️ by **Piyush Kumar** and **Roushan Kumar**
+
